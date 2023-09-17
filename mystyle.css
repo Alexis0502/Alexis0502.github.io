@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(29, 206, 40)
+}
+
+h1 {
+    font-family:cursive;
+}
+
+body {
+    background-color: rgb(58, 36, 199)
+}
+
+p {
+    color:rgb(29, 206, 40)
+}
+
+#abp {
+    color:rgb(58, 36, 199)
+}
+
+#abp {
+    text-align: center;
+}
+
+#a {
+    background-image: url(background.jpg);
+}
+
+#pool {
+    float: left;
+    margin: 10px;
+}
+
+#party {
+    float: right;
+    margin: 10px;
+}
