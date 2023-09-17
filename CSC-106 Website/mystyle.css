@@ -1,9 +1,6 @@
 h1 {
-    color: rgb(29, 206, 40)
-}
-
-h1 {
     font-family:cursive;
+    color: rgb(29, 206, 40)
 }
 
 body {
@@ -15,11 +12,11 @@ p {
 }
 
 #abp {
-    color:rgb(58, 36, 199)
-}
-
-#abp {
     text-align: center;
+    width: 800px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:rgb(58, 36, 199)
 }
 
 #a {
