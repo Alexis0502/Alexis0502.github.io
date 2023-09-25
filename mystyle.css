@@ -3,6 +3,10 @@ h1 {
     color: rgb(29, 206, 40)
 }
 
+h2 {
+    color: rgb(29, 206, 40)
+}
+
 body {
     background-color: rgb(58, 36, 199)
 }
@@ -28,4 +32,16 @@ p {
 #party {
     float: right;
     margin: 10px;
+}
+
+#moji {
+    float: left;
+}
+
+#dance {
+    float: center;
+}
+
+#race {
+    float: right;
 }
