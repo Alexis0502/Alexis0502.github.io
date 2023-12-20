@@ -3,6 +3,10 @@ h1 {
     color: rgb(29, 206, 40)
 }
 
+h2 {
+    color: rgb(29, 206, 40)
+}
+
 body {
     background-color: rgb(58, 36, 199)
 }
@@ -12,7 +16,7 @@ p {
 }
 
 #abp {
-    border: 600px;
+    width: 800px;
     color:rgb(207, 252, 26)
 }
 
